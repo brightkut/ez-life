@@ -1,6 +1,5 @@
 # EZ Life
 
----
 This is a tool that help to setup the computer by installing program including :
 - Intelij
 - Homebrew
